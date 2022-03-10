@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coindhanClone/static/css/main.60b1ab46.css",
+    "main.js": "/coindhanClone/static/js/main.09876cd0.js",
+    "index.html": "/coindhanClone/index.html",
+    "main.60b1ab46.css.map": "/coindhanClone/static/css/main.60b1ab46.css.map",
+    "main.09876cd0.js.map": "/coindhanClone/static/js/main.09876cd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b1ab46.css",
+    "static/js/main.09876cd0.js"
+  ]
+}
